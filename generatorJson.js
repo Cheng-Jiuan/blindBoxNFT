@@ -7,9 +7,9 @@
 const fs = require('fs');
 
 // 要產生 NFT 的數量
-const quantity = 5
+const quantity = 4;
 // IPFS 上傳整包圖片的網址
-const baseURI = "https://gateway.pinata.cloud/ipfs/QmdrNDES3ErEhveebQRrmuV1v8ueCx59fA1bX3G7owUUFi"
+const baseURI = "https://gateway.pinata.cloud/ipfs/QmNqvKQYjtXLppvR3H5K6YTLPxHC4RHa7SX9Yq2PKDoeAP"
 // 檔案副檔名
 const fileExtension = "jpg"
 
